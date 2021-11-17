@@ -27,6 +27,11 @@ python3 train.py
 1. Orange curve - vs. easy level AI
 2. Blue - vs. medium level AI 
 
+##  PPO+RND vs PPO
+![](data/images/comparison.png)
+1. Orange cureve - PPO
+2. Blue curve - PPO+RND
+
 ## learning system
 <img src="data/images/system.PNG" height="250"></img>
 
