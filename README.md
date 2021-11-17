@@ -1,13 +1,7 @@
-# Google Research Football Competition - liveinparis team
+## Forward
 
-* The exact codes used by the team "liveinparis" at [the kaggle football competition](https://www.kaggle.com/c/google-football)
-
-* Implementations of self-play RL from scratch with distributed actors 
-
-* Final version of agents ranked [6th/1141](https://www.kaggle.com/c/google-football/leaderboard) (gold prize)
-
-* You can find all the training details at [here](https://www.kaggle.com/c/google-football/discussion/201376)
-
+* Find the competition at [the kaggle football competition](https://www.kaggle.com/c/google-football) if you are interested.
+* This reporitory is based on the [code](https://github.com/seungeunrho/football-paris) of team "liveinparis".
 
 ## Dependencies
 1. [google-research football](https://github.com/google-research/football)
